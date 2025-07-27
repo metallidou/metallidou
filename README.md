@@ -14,7 +14,7 @@
 <p>🔭 I’m currently studying Computer Science on National and Kapodistrian University of Athens</p>
 </li>
 <li>
-<p>🌱 I’m currently learning more about <strong>Web Development</strong> and <strong>Machine Learning</strong>strong</p>
+<p>🌱 I’m currently learning more about <strong>Web Development</strong> and <strong>Machine Learning</strong></p>
 </li>
 <li>
 <p>☁️ I’m trying to gain as much knowledge as I can regarding <strong>Computer Science</strong></p>
@@ -36,7 +36,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,py,mysql,figma,firebase,linux,git,vscode&amp;perline=14">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,py,mysql,figma,firebase,git,vscode&amp;perline=14">
   </a>
 </p>
 <!-- Connect with me -->
