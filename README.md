@@ -24,7 +24,7 @@
 </li>
 </ul>
 <!--Intro end-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=metallidou&show_icons=true&locale=en&layout=compact" alt="metallidou" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=metallidou&show_icons=true&locale=en&layout=compact&v=2" alt="metallidou" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=metallidou&show_icons=true&locale=en" alt="metallidou" /></p>
 <!--h1 without bottom border-->
