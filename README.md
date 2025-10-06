@@ -40,15 +40,23 @@ Currently focusing on **backend development**. <br />
 </div>
 
 ## Projects
-Some of my most recent projects are:
+Some of my most recent projects are: <br />
 
-- [**Ntantades 2.0**](https://github.com/metallidou/EAM-Ntantades_2.0)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-FFB86C?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-BD93F9?style=for-the-badge&logo=react&logoColor=black) <br />
-  A full-stack babysitting website. Developed with a team using React.
+<ul>
+  <li style="margin-bottom: 20px;">
+    A full-stack babysitting website developed collaboratively using React<br />
+    <a href="https://github.com/metallidou/EAM-Ntantades_2.0" target="_blank">
+      <img src="https://img.shields.io/badge/Ntantades%202.0-BD93F9?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </li> 
+  <li>
+    A text editor data structure implementation for efficient string editing<br />
+    <a href="https://github.com/metallidou/Piece-Table" target="_blank">
+      <img src="https://img.shields.io/badge/Piece%20Table-FF79C6?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </li>
+</ul>
 
-- [**Piece Table**](https://github.com/metallidou/Piece-Table)  
-  ![C++](https://img.shields.io/badge/C++-6272A4?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br />
-  A text editor data structure implementation for efficient string editing.
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=91&section=footer&theme=dracula" alt="footer wave" />
