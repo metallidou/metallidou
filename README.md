@@ -1,57 +1,23 @@
+# About Me:
+🎓 I’m a <b>Computer Science Student</b> on National & Kapodistrian University of Athens and I am currently trying to learn different technologies. <br/> 
+💡 I am interested in <b>AI</b>, <b>algorithmic problem solving</b> and <b>software development</b>. <br/>
+🛠️ I am currently studying <b>backend development</b>. 
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Eleni</h1></summary>
-  </ul>
-</div>
+## Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1036650392508973157) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hmetallidou@gmail.com) 
 
-<!--Intro start-->
-<ul>
-<li>
-<p>🔭 I’m currently studying Computer Science on National and Kapodistrian University of Athens</p>
-</li>
-<li>
-<p>🌱 I’m currently learning more about <strong>Web Development</strong> and <strong>Machine Learning</strong></p>
-</li>
-<li>
-<p>☁️ I’m trying to gain as much knowledge as I can regarding <strong>Computer Science</strong></p>
-</li>
-<li>
-<p>📫 Feel free to reach me out <strong><a href="mailto:hmetallidou@gmail.com">hmetallidou@gmail.com</a></strong></p>
-</li>
-</ul>
-<!--Intro end-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=metallidou&show_icons=true&locale=en&layout=compact&v=2" alt="metallidou" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=metallidou&show_icons=true&locale=en" alt="metallidou" /></p>
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,py,mysql,figma,firebase,git,vscode&amp;perline=14">
-  </a>
-</p>
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-<!--icons and links-->
-<p align="left">
-<a href="https://discord.com/users/helmet7777#3868" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="discord" height="50" width="50"></a>
-<a href="https://kaggle.com/helenmetallidou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="helenmetallidou" height="30" width="40" /></a>
-</p>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<hr>
+# Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=metallidou&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=metallidou&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=metallidou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
