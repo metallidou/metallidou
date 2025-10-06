@@ -22,7 +22,7 @@ Currently focusing on **backend development**.
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=metallidou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![metallidou's Streak](https://github-readme-streak-stats.herokuapp.com/?user=metallidou&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=metallidou&theme=dark&hide_border=false)
 
 ## Projects
 Some of my most recent projects are
