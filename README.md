@@ -1,7 +1,5 @@
-###
-
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=91&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=91&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&theme=dracula" alt="header wave" />
 </div>
 
 # About Me
@@ -11,15 +9,13 @@ Currently focusing on **backend development**.
 
 ## Connect with Me
 <div align="left">
-  <a href="https://www.linkedin.com/in/eleni-metallidou-0b1537387" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
+  <a href="https://www.linkedin.com/in/eleni-metallidou-0b1537387" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
   </a>
   <a href="mailto:hmetallidou@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Gmail" />
   </a>
 </div>
-
-###
 
 ## Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -35,14 +31,13 @@ Currently focusing on **backend development**.
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=metallidou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=metallidou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=metallidou&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="250" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=metallidou&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="250" alt="languages graph" />
 </div>
 
-###
-
 ## Projects
-Some of my most recent projects are
+Some of my most recent projects are:
+
 - [**Ntantades 2.0**](https://github.com/metallidou/EAM-Ntantades_2.0)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
   A full-stack babysitting website. Developed with a team using React.
@@ -51,12 +46,6 @@ Some of my most recent projects are
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
   A text editor data structure implementation for efficient string editing.
 
-###
-
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=91&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=91&section=footer&theme=dracula" alt="footer wave" />
 </div>
-
-###
-
-
