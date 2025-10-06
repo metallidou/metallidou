@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=91&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&theme=dracula" alt="header wave" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1500&color=BD93F9&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Eleni+Metallidou;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1500&color=BD93F9&width=535&lines=Hi+there+👋+I'm+Eleni+Metallidou;)](https://git.io/typing-svg)
 
 # About Me
 I’m a **Computer Science Student** currently exploring new technologies. <br /> <br />
