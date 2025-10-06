@@ -44,13 +44,13 @@ Some of my most recent projects are: <br />
 
 <ul>
   <li style="margin-bottom: 20px;">
-    A full-stack babysitting website developed collaboratively using React<br />
+    A <b>Full-Stack Babysitting Website</b> developed collaboratively using <b>React</b> <br />
     <a href="https://github.com/metallidou/EAM-Ntantades_2.0" target="_blank">
       <img src="https://img.shields.io/badge/Ntantades%202.0-BD93F9?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </li> 
   <li>
-    A text editor data structure implementation for efficient string editing<br />
+    A <b>Text Editor Data Structure</b> implementation for efficient string editing<br />
     <a href="https://github.com/metallidou/Piece-Table" target="_blank">
       <img src="https://img.shields.io/badge/Piece%20Table-FF79C6?style=for-the-badge&logo=github&logoColor=white" />
     </a>
