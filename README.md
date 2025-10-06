@@ -10,15 +10,12 @@ I am interested in **AI**, **algorithmic problem solving**, and **software devel
 Currently focusing on **Backend Development**. <br />
 
 ## Connect with Me
-<div align="left">
-  <a href="https://www.linkedin.com/in/eleni-metallidou-0b1537387" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=BD93F9&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hmetallidou@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF5555&logoColor=white&style=for-the-badge" height="40" alt="Gmail" />
-  </a>
-</div>
-
+<a href="https://www.linkedin.com/in/eleni-metallidou-0b1537387" target="_blank" style="margin-right: 10px;">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=BD93F9&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
+</a>
+<a href="mailto:hmetallidou@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF5555&logoColor=white&style=for-the-badge" height="40" alt="Gmail" />
+</a>
 
 ## Tech Stack
 ![C](https://img.shields.io/badge/C-6272A4?style=for-the-badge&logo=c&logoColor=white)
