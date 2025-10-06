@@ -26,10 +26,10 @@ Currently focusing on **backend development**.
 
 ## Projects
 Some of my most recent projects are
+- [**Ntantades 2.0**](https://github.com/metallidou/EAM-Ntantades_2.0)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+  A full-stack babysitting website. Developed with a team using React.
+
 - [**Piece Table**](https://github.com/metallidou/Piece-Table)  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
   A text editor data structure implementation for efficient string editing.
-
-- [**Ntantades 2.0**](https://github.com/metallidou/EAM-Ntantades_2.0)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-  A collaborative project for [purpose]. Developed with a team using React.
