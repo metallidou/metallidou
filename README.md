@@ -6,7 +6,7 @@
 
 # About Me
 I’m a **Computer Science Student** currently exploring new technologies. <br /> <br />
-I am interested in **AI**, **algorithmic problem solving**, and **software development**.  <br /> <br />
+I am interested in **AI**, **Algorithmic Problem Solving**, and **Software Development**.  <br /> <br />
 Currently focusing on **Backend Development**. <br />
 
 ## Connect with Me
