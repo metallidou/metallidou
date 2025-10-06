@@ -1,3 +1,9 @@
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=91&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
+</div>
+
 # About Me
 I’m a **Computer Science Student** currently exploring new technologies.  
 I am interested in **AI**, **algorithmic problem solving**, and **software development**.  
@@ -20,9 +26,12 @@ Currently focusing on **backend development**.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=metallidou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=metallidou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=metallidou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=metallidou&theme=dark&hide_border=false)
+###
 
 ## Projects
 Some of my most recent projects are
@@ -33,3 +42,13 @@ Some of my most recent projects are
 - [**Piece Table**](https://github.com/metallidou/Piece-Table)  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
   A text editor data structure implementation for efficient string editing.
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=91&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
+</div>
+
+###
+
+
