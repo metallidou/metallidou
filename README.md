@@ -1,5 +1,5 @@
 # About Me:
-🎓 I’m a <b>Computer Science Student</b> on National & Kapodistrian University of Athens and I am currently trying to learn different technologies. <br/> 
+🎓 I’m a <b>Computer Science Student</b> and I am currently trying to learn different technologies. <br/> 
 💡 I am interested in <b>AI</b>, <b>algorithmic problem solving</b> and <b>software development</b>. <br/>
 🛠️ I am currently studying <b>backend development</b>. 
 
