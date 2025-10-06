@@ -4,10 +4,6 @@
 💡 I am interested in <b>AI</b>, <b>algorithmic problem solving</b> and <b>software development</b>. <br/>
 🛠️ I am currently studying <b>backend development</b>. 
 
-## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1036650392508973157) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hmetallidou@gmail.com) 
-
 # Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
