@@ -10,8 +10,16 @@ I am interested in **AI**, **algorithmic problem solving**, and **software devel
 Currently focusing on **backend development**.
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eleni-metallidou-0b1537387)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hmetallidou@gmail.com)
+<div align="left">
+  <a href="https://www.linkedin.com/in/eleni-metallidou-0b1537387" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:hmetallidou@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail logo" />
+  </a>
+</div>
+
+###
 
 ## Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
