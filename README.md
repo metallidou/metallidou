@@ -2,32 +2,36 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=91&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&theme=dracula" alt="header wave" />
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1500&color=BD93F9&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Eleni+Metallidou;)](https://git.io/typing-svg)
+
 # About Me
-I’m a **Computer Science Student** currently exploring new technologies.  
-I am interested in **AI**, **algorithmic problem solving**, and **software development**.  
-Currently focusing on **backend development**.
+I’m a **Computer Science Student** currently exploring new technologies. <br /> <br />
+I am interested in **AI**, **algorithmic problem solving**, and **software development**.  <br /> <br />
+Currently focusing on **backend development**. <br />
 
 ## Connect with Me
 <div align="left">
   <a href="https://www.linkedin.com/in/eleni-metallidou-0b1537387" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=BD93F9&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
   </a>
   <a href="mailto:hmetallidou@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF5555&logoColor=white&style=for-the-badge" height="40" alt="Gmail" />
   </a>
 </div>
 
+
 ## Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![C](https://img.shields.io/badge/C-6272A4?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-6272A4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-50FA7B?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB86C?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-FF5555?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8BE9FD?style=for-the-badge&logo=css3&logoColor=black)
+![React](https://img.shields.io/badge/React-BD93F9?style=for-the-badge&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-6272A4?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF79C6?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFB86C?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ## GitHub Stats
 <div align="center">
@@ -39,11 +43,11 @@ Currently focusing on **backend development**.
 Some of my most recent projects are:
 
 - [**Ntantades 2.0**](https://github.com/metallidou/EAM-Ntantades_2.0)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-FFB86C?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-BD93F9?style=for-the-badge&logo=react&logoColor=black) <br />
   A full-stack babysitting website. Developed with a team using React.
 
 - [**Piece Table**](https://github.com/metallidou/Piece-Table)  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  ![C++](https://img.shields.io/badge/C++-6272A4?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br />
   A text editor data structure implementation for efficient string editing.
 
 <div>
