@@ -5,9 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1500&color=BD93F9&width=535&lines=Hi+there+👋+I'm+Eleni+Metallidou;)](https://git.io/typing-svg)
 
 # About Me
-I’m a **Computer Science Student** currently exploring new technologies. <br /> <br />
-I am interested in **AI**, **Algorithmic Problem Solving**, and **Software Development**.  <br /> <br />
-Currently focusing on **Backend Development**. <br />
+**Computer Science student** exploring **AI**, **algorithms**, and **full-stack development**. <br />
+Passionate about learning, building, and improving every day.
 
 ## Connect with Me
 <a href="https://www.linkedin.com/in/eleni-metallidou-0b1537387" target="_blank" style="margin-right: 10px;">
