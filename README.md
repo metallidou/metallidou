@@ -8,14 +8,6 @@
 **Computer Science student** exploring **AI**, **algorithms**, and **full-stack development**. <br />
 Passionate about learning, building, and improving every day.
 
-## Connect with Me
-<a href="https://www.linkedin.com/in/eleni-metallidou-0b1537387" target="_blank" style="margin-right: 10px;">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=BD93F9&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
-</a>
-<a href="mailto:hmetallidou@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF5555&logoColor=white&style=for-the-badge" height="40" alt="Gmail" />
-</a>
-
 ## Tech Stack
 ![C](https://img.shields.io/badge/C-6272A4?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-6272A4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -50,6 +42,14 @@ Some of my most recent projects are: <br />
     </td>
   </tr>
 </table>
+
+## Connect with Me
+<a href="https://www.linkedin.com/in/eleni-metallidou-0b1537387" target="_blank" style="margin-right: 10px;">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=BD93F9&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
+</a>
+<a href="mailto:hmetallidou@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF5555&logoColor=white&style=for-the-badge" height="40" alt="Gmail" />
+</a>
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=91&section=footer&theme=dracula" alt="footer wave" />
