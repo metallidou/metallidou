@@ -29,30 +29,27 @@ Passionate about learning, building, and improving every day.
 ![Firebase](https://img.shields.io/badge/Firebase-FFB86C?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=metallidou&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="250" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=metallidou&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="250" alt="languages graph" />
-</div>
-
 ## Projects
 Some of my most recent projects are: <br />
 
-<ul>
-  <li style="margin-bottom: 20px;">
-    A <b>Full-Stack Babysitting Website</b> developed collaboratively using <b>React</b> <br />
-    <a href="https://github.com/metallidou/EAM-Ntantades_2.0" target="_blank">
-      <img src="https://img.shields.io/badge/Ntantades%202.0-BD93F9?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </li> 
-  <li>
-    A <b>Text Editor Data Structure</b> implementation for efficient string editing<br />
-    <a href="https://github.com/metallidou/Piece-Table" target="_blank">
-      <img src="https://img.shields.io/badge/Piece%20Table-FF79C6?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </li>
-</ul>
-
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3> Ntantades 2.0</h3>
+      <p>A <b>Full-Stack Babysitting Website</b> developed collaboratively using <b>React</b> and <b>Firebase</b></p>
+      <a href="https://github.com/metallidou/EAM-Ntantades_2.0" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Project-BD93F9?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3> Piece Table</h3>
+      <p>A <b>Text Editor Data Structure</b> implementation for efficient string editing using <b>C++</b></p>
+      <a href="https://github.com/metallidou/Piece-Table" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Project-FF79C6?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=91&section=footer&theme=dracula" alt="footer wave" />
