@@ -3,12 +3,15 @@
 </div>
 
 # About Me
-**Computer Science student** exploring **AI**, **algorithms**, and **full-stack development**. <br />
-Passionate about learning, building, and improving every day.
+- **Computer Science student** exploring **AI**, **algorithms**, and **full-stack development**. <br />
+- Currently building a **multi-platform** and **web** project using **.NET**, **MAUI** and **Blazor**. <br />
+- Passionate about learning, building, and improving every day.
 
 ## Tech Stack
 ![C](https://img.shields.io/badge/C-6272A4?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-6272A4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-BD93F9?style=for-the-badge&logo=csharp&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-6272A4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-50FA7B?style=for-the-badge&logo=python&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFB86C?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-FF5555?style=for-the-badge&logo=html5&logoColor=white)
