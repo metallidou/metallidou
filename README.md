@@ -10,16 +10,18 @@
 ## Tech Stack
 ![C](https://img.shields.io/badge/C-6272A4?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-6272A4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-BD93F9?style=for-the-badge&logo=csharp&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-BD93F9?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-6272A4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-50FA7B?style=for-the-badge&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB86C?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-50FA7B?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB86C?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FF5555?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8BE9FD?style=for-the-badge&logo=css3&logoColor=black)
-![React](https://img.shields.io/badge/React-BD93F9?style=for-the-badge&logo=react&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-8BE9FD?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-BD93F9?style=for-the-badge&logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-6272A4?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF79C6?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFB86C?style=for-the-badge&logo=firebase&logoColor=black)
+![Blazor](https://img.shields.io/badge/Blazor-BD93F9?style=for-the-badge&logo=blazor&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFB86C?style=for-the-badge&logo=firebase&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-BD93F9?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 ## Projects
