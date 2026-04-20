@@ -4,7 +4,7 @@
 
 # About Me
 - **Computer Science student** exploring **AI**, **algorithms**, and **full-stack development**. <br />
-- Currently building a **multi-platform** and **web** project using **.NET** and **React**. <br />
+- Currently building a responsive **web** application using **.NET** and **React**. <br />
 - Passionate about learning, building, and improving every day.
 
 ## Tech Stack
