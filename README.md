@@ -3,8 +3,7 @@
 </div>
 
 # About Me
-- **Computer Science student** exploring **AI**, **algorithms**, and **full-stack development**. <br />
-- Currently building a responsive **web** application using **.NET** and **React**. <br />
+- **Software Developer** exploring **AI**, **algorithms**, and **full-stack development**. <br />
 - Passionate about learning, building, and improving every day.
 
 ## Tech Stack
